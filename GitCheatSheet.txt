@@ -1,0 +1,10 @@
+To upload a new change to your repository:
+1. git add .
+2. git commit -m "Replace this with your message but keep the quotes"
+3. git push
+
+To download others' changes:
+1. git pull
+
+To check what changes are waiting to be staged or are staged already:
+1. git status
