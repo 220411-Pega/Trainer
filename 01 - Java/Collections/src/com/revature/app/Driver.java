@@ -8,7 +8,9 @@ public class Driver {
 		
 		//QueueExamples.show();
 		
-		SetExamples.show();
+		//SetExamples.show();
+		
+		MapExamples.show();
 	}
 	
 	
