@@ -1,4 +1,4 @@
-import java.util.Date;
+import java.sql.Date;
 
 public class StudentModel {
 
@@ -21,14 +21,13 @@ public class StudentModel {
 		this.favColor = fav_color;
 	}
 
-	
+
+
 	@Override
 	public String toString() {
 		return "StudentModel [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", age=" + age
 				+ ", date=" + date + ", favColor=" + favColor + "]";
 	}
-
-
 
 
 
